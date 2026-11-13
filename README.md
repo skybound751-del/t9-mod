@@ -2,7 +2,7 @@
 [![Open Issues](https://img.shields.io/gitlab/issues/open/xifil/t9-mod.svg)](https://gitlab.com/xifil/t9-mod/-/issues)
 [![Discord](https://img.shields.io/discord/769966964030046298?color=%237289DA&label=members&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/dPzJajt)
 
-# t9-mod
+# t9-mod 
 
 <p align="center">
   <img src="assets/github/banner.png?raw=true" />
